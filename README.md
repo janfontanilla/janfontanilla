@@ -9,7 +9,7 @@ Software Developer
 * 🌍  I'm based in Canada
 * 🖥️  See my portfolio at [janfontanilla.com](http://janfontanilla.com)
 * ✉️  You can contact me at [janfontanilla12@gmail.com](mailto:janfontanilla12@gmail.com)
-* 🧠  I'm learning Natural Language Processing (NLP) and Basic Computer Vision
+* 🧠  I'm currently learning Cloud Technologies and Dev Ops!
 * 🤝  I'm open to collaborating on Shipping MVPs!
 
 ### Skills
